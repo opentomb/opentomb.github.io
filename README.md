@@ -1,32 +1,33 @@
-Freelancer Jekyll theme
+OpenTomb site
 =========================
 
+This is opentomb/OpenTomb site, it is based on the Jekyll theme [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
-## How to use
- - Place a image in `/img/portoflio/`
- - Replace `you@email.com` in `_includes/contact_static.html` with your email address. refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+##License
+- OpenTomb project itself is GNU Lesser GPL v3 licensed, while this site follows [jeromelachaud/freelancer-theme] (https://github.com/jeromelachaud/freelancer-theme) Apache v2 License
 
----
-```
+##Changelong
+- v0.1.0 - Initial release of OpenTomb site
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+##Versioning
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+Creative Commons Web Fonts will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
+with the following format:
 
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+`<major>.<minor>.<patch>`
+
+And constructed with the following guidelines:
+
+* Breaking backward compatibility bumps the major (and resets the minor and patch)
+* New additions, including new icons, without breaking backward compatibility bumps the minor (and resets the patch)
+* Bug fixes and misc changes bumps the patch
+
+For more information on SemVer, please visit http://semver.org.
+
+##Author
+- Email: richardtrle at gmail dot com
+- Twitter: http://twitter.com/richardba
+- GitHub: https://github.com/richardba
+
+##See also
