@@ -3,6 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+@import url(http://fonts.googleapis.com/css?family=Lora);
 
 body {
     overflow-x: hidden;
@@ -106,6 +107,11 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
+}
+
+.navbar-brand
+{
+  font-family: 'Lora', Montserrat, Helvetica, serif;
 }
 
 @media(min-width:768px) {
