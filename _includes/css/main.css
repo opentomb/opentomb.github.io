@@ -85,12 +85,6 @@ hr.star-primary:after {
   font-family: 'Lora', serif;
   text-align:center;
 }
-.name
-{
-  font-family: 'Lora', serif;
-  text-align:center;
-  line-height:1;
-}
 
 header {
     text-align: center;
@@ -110,8 +104,9 @@ header img {
 
 header .intro-text .name {
     display: block;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lora', serif;
+    text-align:center;
+    line-height:1;
     font-size: 2em;
     font-weight: 700;
 }
