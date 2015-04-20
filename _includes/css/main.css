@@ -112,6 +112,7 @@ header .intro-text .skills {
 .navbar-brand
 {
   font-family: 'Lora', serif;
+  text-align:center;
 }
 
 @media(min-width:768px) {
