@@ -104,6 +104,12 @@ header .intro-text .name {
     font-weight: 700;
 }
 
+.name
+{
+  font-family: 'Lora', serif;
+  text-align:center;
+}
+
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
