@@ -80,6 +80,18 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.navbar-brand
+{
+  font-family: 'Lora', serif;
+  text-align:center;
+}
+.name
+{
+  font-family: 'Lora', serif;
+  text-align:center;
+  line-height:1;
+}
+
 header {
     text-align: center;
     color: #fff;
@@ -104,22 +116,12 @@ header .intro-text .name {
     font-weight: 700;
 }
 
-.name
-{
-  font-family: 'Lora', serif;
-  text-align:center;
-}
 
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
 }
 
-.navbar-brand
-{
-  font-family: 'Lora', serif;
-  text-align:center;
-}
 
 @media(min-width:768px) {
     header .container {
