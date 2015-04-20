@@ -2,7 +2,7 @@
 title: OpenTomb
 email: open.tomb.git@gmail.com
 url: https://opentomb.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "OpenTomb is a cross-platform reimplementation of classic Tomb Raider 1—5 engines that were developed by now defunct Core Design. It is not a patcher or DLL extension of already existing engines."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
