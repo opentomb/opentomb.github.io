@@ -104,6 +104,7 @@ header img {
 
 header .intro-text .name {
     display: block;
+    text-transform: uppercase;
     font-family: 'Lora', serif;
     text-align:center;
     line-height:1;
