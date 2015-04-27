@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Check out this video showcasing trigger test and LUA scripting capabilities. <a href="https://www.youtube.com/watch?v=Td7DEDrwxJ4">Youtube<i class="fa fa-external-link-square"></i></a>
+description: Check out this video showcasing trigger test and LUA scripting capabilities. <a href="https://www.youtube.com/watch?v=Td7DEDrwxJ4">Youtube<sup><i class="fa fa-external-link-square"></i></sup></a>
 
 ---
