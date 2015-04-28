@@ -86,6 +86,12 @@ hr.star-primary:after {
   text-align:center;
 }
 
+a.sf, a.sf:hover, a.sf:link, a.sf:visited, a.sf:active
+{
+  font-weight:bold;
+  text-decoration:none!important;
+}
+
 header {
     text-align: center;
     color: #fff;
