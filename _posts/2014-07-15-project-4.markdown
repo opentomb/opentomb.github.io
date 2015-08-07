@@ -4,7 +4,7 @@ modal-id: 04
 date: 2014-07-15
 img: 04.jpg
 alt: image-alt
-description: Tomb Raider: The Last Revelation levels are supported.
+description: Tomb Raider - The Last Revelation levels are supported.
 
 ---
  
