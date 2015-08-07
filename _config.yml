@@ -35,7 +35,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'OpenTomb (formerly TRE) is an engine replacement project intended to play levels from all classic TR games (TR 1-5) and custom levels. It is open-source (GNU GPL3 licensed) and free to use!'
+credits: 'Tomb Raider © & TM Square Enix. OpenTomb is free and open-source (GNU GPL3 licensed) software.'
 
 # Build settings
 markdown: kramdown
