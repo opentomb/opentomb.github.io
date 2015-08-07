@@ -2,12 +2,9 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: 02.png
+img: 02.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: OpenTomb provides different collision approach from original TombRaider, as such Lara can climb statics as shown. 
+description: Working emitters and dynamic entities. 
 
 ---
  

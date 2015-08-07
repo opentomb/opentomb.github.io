@@ -2,12 +2,9 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: 04.png
+img: 04.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Underwater showcase.
+description: Tomb Raider: The Last Revelation levels are supported.
 
 ---
  

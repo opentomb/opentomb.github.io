@@ -2,12 +2,9 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: 05.png
+img: 05.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Check out this video showcasing trigger test and LUA scripting capabilities. <a href="https://www.youtube.com/watch?v=Td7DEDrwxJ4">Youtube<sup><i class="fa fa-external-link"></i></sup></a>
+description: Tomb Raider 3 Gold showcase.
 
 ---
  

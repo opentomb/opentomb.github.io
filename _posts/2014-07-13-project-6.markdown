@@ -2,11 +2,8 @@
 layout: default
 modal-id: 06
 date: 2014-07-15
-img: 06.png
+img: 06.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Tomb Raider 3 Nevada.
+description: Trigger layouts and activation masks are supported.
 
 ---

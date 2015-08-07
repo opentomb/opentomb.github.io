@@ -2,12 +2,9 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: 03.png
+img: 03.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: OpenTomb is attempting to be compatible with Tomb Raider Level Editor - TRLE and its extension. In this picture a map created using Meta2TR (a plugin that uses Metasequoia 3d Studio to create maps) is rendered.
+description: Bullet Physics allows realistic dynamic entity behaviour.
 
 ---
  

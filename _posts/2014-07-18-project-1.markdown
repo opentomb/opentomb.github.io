@@ -2,9 +2,9 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: 01.png
+img: 01.jpg
 alt: image-alt
-description: Lara's Home level as rendered using OpenTomb
+description: Nevada Desert from TR3: working NPCs and weapon wielding.
 
 ---
  
