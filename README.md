@@ -4,15 +4,15 @@ OpenTomb site
 This is opentomb/OpenTomb site, it is based on the Jekyll theme [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
-##License
+## License
 - OpenTomb project itself is GNU Lesser GPL v3 licensed, while this site follows [jeromelachaud/freelancer-theme] (https://github.com/jeromelachaud/freelancer-theme) Apache v2 License
 
-##Changelong
+## Changelong
 - v1.0.1 - Fix form email
 - v1.0.0 - Site release
 - v0.1.0 - Initial release of OpenTomb site
 
-##Versioning
+## Versioning
 
 Creative Commons Web Fonts will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
 with the following format:
@@ -27,9 +27,9 @@ And constructed with the following guidelines:
 
 For more information on SemVer, please visit http://semver.org.
 
-##Author
+## Author
 - Email: richardtrle at gmail dot com
 - Twitter: http://twitter.com/richardba
 - GitHub: https://github.com/richardba
 
-##See also
+## See also
