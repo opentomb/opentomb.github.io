@@ -5,6 +5,14 @@
  */
 @import url(http://fonts.googleapis.com/css?family=Lora);
 
+#notification-dialog {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    max-width: 400px;
+    z-index: 1050;
+}
+
 body {
     overflow-x: hidden;
 }

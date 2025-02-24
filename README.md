@@ -8,6 +8,7 @@ Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/te
 - OpenTomb project itself is GNU Lesser GPL v3 licensed, while this site follows [jeromelachaud/freelancer-theme] (https://github.com/jeromelachaud/freelancer-theme) Apache v2 License
 
 ## Changelong
+- v1.0.2-final - Marking the project as discontinued
 - v1.0.1 - Fix form email
 - v1.0.0 - Site release
 - v0.1.0 - Initial release of OpenTomb site
