@@ -2,11 +2,19 @@
 <html>
     {% include head.html %}
     <body id="page-top" class="index">
-    <div id="notification-dialog" class="alert alert-warning alert-dismissible fade show shadow-lg" role="alert">
-        <strong>Notice:</strong> This project is not being actively maintained.  
-        For an ongoing, well-developed, and community-driven engine for creating classic Tomb Raider levels, check out  
-        <a href="https://tombengine.com" target="_blank" class="alert-link">TombEngine</a>.
-        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    <div id="notification-dialog" class="alert alert-warning alert-dismissible show shadow-lg" role="alert">
+        <table>
+            <tr>
+                <td class="icon-container">
+                    <i class="fa fa-exclamation-circle"></i> <!-- Font Awesome Icon -->
+                </td>
+                <td>
+                    <strong>Notice:</strong> This project is not being actively maintained.<br>
+                    For an ongoing, well-developed, and community-driven engine for creating classic Tomb Raider levels, check out  
+                    <a href="https://tombengine.com" target="_blank" class="alert-link">TombEngine</a>.
+                </td>
+            </tr>
+        </table>
     </div>
     {% include nav.html %}
     {% include header.html %}
@@ -16,16 +24,5 @@
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}
-    <script>
-        $(document).ready(function() {
-            // Show the notification when the page loads
-            $("#notification-dialog").fadeIn();
-
-            // Optional: Auto-hide the notification after 10 seconds
-            setTimeout(function() {
-                $("#notification-dialog").fadeOut();
-            }, 10000);
-        });
-    </script>
     </body>
 </html>
